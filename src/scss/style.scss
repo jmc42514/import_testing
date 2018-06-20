@@ -1,0 +1,9 @@
+//Variable Overrides
+$font-family-base: tahoma;
+
+$theme-colors: (
+	"primary": #d95700 
+);
+
+//Bootstrap Sass Files
+@import "node_modules/bootstrap/scss/bootstrap";
